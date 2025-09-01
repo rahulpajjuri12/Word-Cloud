@@ -35,6 +35,9 @@ A word cloud is a text visualization technique where the size of each word repre
 
 ## 📂 Project Structure  
 ├── dataset/ # Dataset (CSV/JSON with reviews)
+
 ├── wordcloud_generator.py # Main script
+
 ├── requirements.txt # Required dependencies
+
 └── README.md # Documentation
